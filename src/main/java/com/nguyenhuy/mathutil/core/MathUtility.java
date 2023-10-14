@@ -55,4 +55,13 @@ public class MathUtility {
         
         return n * getFactorial(n-1); //n! = n * (n - 1)!
     }
+    //CHẢNH CỜ-HÓ, KO THÈM XEM XANH ĐỎ Ở LOCAL
+    //ĐỂ GITHUB ACTIONS LÀM GIÙM XANH ĐỎ
+    //THỰC TẾ LÀM DỰ ÁM: ANH EM FIXBUG
+    //                  ANH EM TỐI ƯU HÀM CHO CHẠY NHANH HƠN
+    //                  VIỆC TỐI ƯU NÀY ĐÚNG HAY SAI VỀ CHẤT LƯỢNG CODE
+    //                  LEADER CHỈ CẦN NHÌN MÀU XANH LÀ ĐỦ
+    //NẾU LÀM TỐT THÌ PHẢI RA MÀU XANH, KO CARE  CHI TIẾT
+    // KĨ THUẬT ĐÃ XANH. TEST LẠI ĐỂ VẪN XANH, MÀ KO CẦN NHÌN CHI TIẾT CODE
+    //NGƯỜI TA GỌI LÀ: REGRESSION TEST - KIỂM THỬ HỔI QUY
 }

@@ -6,6 +6,9 @@
 
 * A jar project to demonstrate a Math library
 * A Unit Test source code using Junit Test framework
+* Applying DDT - Test Driven Development, and DDT - Data Driven Testing
+* The Continuous Integration (CI) script using Github Actions
+* Regression testing technique when refactoring code
 * ...
 
 ### Connect me via huynguyen0302003@gmail.com
