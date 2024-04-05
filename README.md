@@ -11,6 +11,9 @@
 * Regression testing technique when refactoring code
 * ...
 
+### Screen shot:
+![JUnit-TTD](https://github.com/NguyenHuypro/math-util-mvn/blob/main/screenshots/Screenshot%202023-10-10%20222614.png)
+
 ### Connect me via huynguyen0302003@gmail.com
 
 # Copyright &#169; 2023 nguyenhuy
