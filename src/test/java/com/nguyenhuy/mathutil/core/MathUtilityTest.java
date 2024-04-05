@@ -20,7 +20,7 @@ public class MathUtilityTest {
     //      2. Call/invok getFactorial(n = 0)
     //Expected Result:
     //              the method must return 1 as the result of 0!
-    //Status: PASSED | FAILED đoán xem, chờ code xong, chạy miows biết được
+    //Status: PASSED | FAILED đoán xem, chờ code xong, chạy mới biết được
     
     @Test
     public void verifyFactorialGivenRightArgument0ReturnsOk(){
